@@ -83,6 +83,9 @@ public class AccountDao {
         } catch (SQLException e) {
             throw e;
         }
+        finally {
+            DatabaseManager.releaseConnection(conn);
+        }
     }
 
     /**
