@@ -1,0 +1,10 @@
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/cli/BankConsoleDayFour.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/model/Account.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/model/Customer.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/model/CustomerType.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/model/Transaction.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/model/TransactionType.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/persistence/AccountDao.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/persistence/CustomerDao.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/persistence/DatabaseManager.java
+/Users/reiz/Downloads/liparibank-broken-day4 2/src/main/java/com/lipari/bank/persistence/TransactionDao.java
